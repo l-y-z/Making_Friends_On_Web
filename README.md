@@ -1,2 +1,2 @@
-# -web-
+# Making_Friends_On_Web
 仅为了完成人机交互课程设计的作业
